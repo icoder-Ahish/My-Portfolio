@@ -1,25 +1,25 @@
 {
     "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+        "logoUrl": "images/places/infinityVerse.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Adobe Inc."}
+            "en": {"name": "InfinityVerse"}
         }
     },
 
     "apple": {
-        "logoUrl": "images/places/logo-apple.png",
-        "faIcon": "fab fa-apple",
+        "logoUrl": null,
+        "faIcon": null,
         "locales": {
-            "en": {"name": "Apple Inc."}
+            "en": {"name": "Rostris Infotech Private Limited "}
         }
     },
 
     "coursera": {
-        "logoUrl": "images/places/logo-coursera.png",
+        "logoUrl": "images/places/Os3.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Coursera"}
+            "en": {"name": "OS3 Infotech"}
         }
     },
 
@@ -43,10 +43,7 @@
         "logoUrl": "images/places/logo-harvard.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Harvard University"},
-            "es": {"name": "Universidad de Harvard"},
-            "fr": {"name": "Université Harvard"},
-            "zh": {"name": "哈佛大学"}
+            "en": {"name": "AKS University"}
         }
     },
 
@@ -54,10 +51,7 @@
         "logoUrl": "images/places/logo-paris-university.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "University of Paris"},
-            "es": {"name": "Universidad de París"},
-            "fr": {"name": "Université de Paris"},
-            "zh": {"name": "巴黎大学"}
+            "en": {"name": "University of Paris"}
         }
     },
 
@@ -75,5 +69,30 @@
         "locales": {
             "en": {"name": "UX Masters Studio"}
         }
+    },
+
+    "aws": {
+        "logoUrl": "images/places/Os3.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Forage"}
+        }
+    },
+
+    "RedHat": {
+        "logoUrl": "images/places/Os3.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "RedHat"}
+        }
+    },
+
+    "Goggle Skill": {
+        "logoUrl": "images/places/Os3.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Goggle Cloud Skill"}
+        }
     }
+
 }

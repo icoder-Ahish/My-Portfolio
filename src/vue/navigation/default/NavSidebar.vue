@@ -19,7 +19,7 @@
         <!-- Footer -->
         <div class="nav-sidebar-footer" v-if="profileData">
             <!-- Language Picker -->
-            <LanguagePicker />
+            <!-- <LanguagePicker /> -->
 
             <!-- Credits -->
             <div class="nav-sidebar-footer-credits text-2 mt-3 mb-3">
@@ -30,7 +30,7 @@
 </template>
 
 <script setup>
-import LanguagePicker from "../../widgets/LanguagePicker.vue"
+// import LanguagePicker from "../../widgets/LanguagePicker.vue"
 import NavProfileCard from "../partials/NavProfileCard.vue"
 import {computed} from "vue"
 import {useData} from "../../../composables/data.js"
