@@ -44,7 +44,7 @@
 
     "linkedin": {
       "id": "linkedin",
-      "value": "@ashish.official",
+      "value": "@icoder-Ahish",
       "valueShort": "@icoder-Ahish",
       "faIcon": "fa-brands fa-linkedin",
       "href": "https://www.linkedin.com/in/ashish-sahu-b9882a223"
@@ -52,7 +52,7 @@
 
     "phone": {
       "id": "phone",
-      "value": "+1 (+91) 8982132095",
+      "value": "(+91) 8982132095",
       "valueShort": "(+91) 8982132095",
       "faIcon": "fa-solid fa-phone",
       "href": null

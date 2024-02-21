@@ -46,20 +46,20 @@
                             </div>
 
                             <!-- Links SubSection -->
-                            <div class="modal-subsection">
-                                <!-- Title -->
-                                <h5 class="d-inline-block fw-bold">
+                            <!-- <div class="modal-subsection">
+                            Title -->
+                                <!-- <h5 class="d-inline-block fw-bold">
                                     <i class="fa fa-external-link me-2" />
                                     <span class="ms-1">{{ data.getString('whereToFind') }}</span>
-                                </h5>
+                                </h5> -->
 
-                                <!-- Content -->
+                                <!-- Content 
                                 <p v-html="data.getString('whereToFindDescription').replace('${project}', `<strong>${props.project['title']}</strong>`)"
                                    class="text-3 text-light-7"/>
 
-                                <!-- Social Links -->
+                                 Social Links 
                                 <SocialLinks :items="props.project['links']"/>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

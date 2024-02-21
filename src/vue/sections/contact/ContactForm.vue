@@ -6,41 +6,41 @@
                 <Alert :type="alertStatus.type" :message="alertStatus.message"/>
             </div>
 
-            <!-- Left Column -->
+            <!-- Left Column 
             <div class="col-xl-6">
-                <!-- Name Input -->
+                
                 <div class="form-group input-group">
                     <span class="input-group-text input-group-attach"><i class="fa fa-signature"/></span>
                     <input class="form-control" id="form-name" type="text" :placeholder="data.getString('name') + ' *'" required/>
                 </div>
 
-                <!-- E-mail Address Input -->
+                
                 <div class="form-group input-group">
                     <span class="input-group-text input-group-attach"><i class="fa fa-envelope"/></span>
                     <input class="form-control" id="form-email" type="email" :placeholder="data.getString('email') + ' *'" required/>
                 </div>
 
-                <!-- Subject Input -->
+                
                 <div class="form-group input-group">
                     <span class="input-group-text input-group-attach"><i class="fa fa-pen-to-square"/></span>
                     <input class="form-control" id="form-subject" type="text" :placeholder="data.getString('subject') + ' *'" required/>
                 </div>
-            </div>
+            </div>  -->
 
             <!-- Right Column -->
-            <div class="col-xl-6">
-                <!-- Message TextArea -->
+            <!-- <div class="col-xl-6">
+                 Message TextArea 
                 <div class="form-group form-group-textarea mb-md-0">
                     <textarea class="form-control" id="form-message" :placeholder="data.getString('message')" required/>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Bottom Column -->
-            <div class="col-12 text-center mt-3 mt-lg-4">
+            <!-- <div class="col-12 text-center mt-3 mt-lg-4">
                 <button class="btn btn-primary btn-xl" type="submit" id="btn-submit-message" :class="{disabled: submitStatus === SubmitStatus.SENDING}">
                     <i class="fa fa-envelope me-1"/> {{ data.getString('sendMessage') }}
                 </button>
-            </div>
+            </div> -->
         </div>
     </form>
 </template>
