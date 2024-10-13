@@ -32,24 +32,12 @@
         },
 
         {
-            "id": "experience_item_3",
-            "place": "@link{places.coursera}",
-            "period": ["2020/09", "2022/09"],
-            "locales": {
-                "en": {
-                    "title": "Trainee Engr - Software Engineer",
-                    "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction."
-                }
-            }
-        },
-
-        {
             "id": "experience_item_4",
             "place": "@link{places.coursera}",
-            "period": ["2022/10", "now"],
+            "period": ["2020/09", "now"],
             "locales": {
                 "en": {
-                    "title": "Asst. Software Engineer",
+                    "title": "Software Engineer",
                     "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers."
                 }
             }
