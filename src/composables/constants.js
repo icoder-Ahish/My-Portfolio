@@ -4,8 +4,7 @@
  */
 export function useConstants() {
     /** @const **/
-    const BASE_PATH = import.meta.env.BASE_URL
-
+    const BASE_PATH = import.meta.env.VITE_APP_BASE_URL
     /** @const **/
     const BOOTSTRAP_BREAKPOINTS = {
         xs: 0,
